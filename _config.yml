@@ -1,0 +1,28 @@
+name: tmc
+favicon: null
+layout_spectrum: 0.45503674913197756
+typography_spectrum: 0.9713114798069
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6592013922054321
+  lightness: 0.740076582878828
+  saturation: 0.41947061964310706
+  rhythmicContrast: 0.07406188570894301
+purpose: []

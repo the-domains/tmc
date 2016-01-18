@@ -2,6 +2,7 @@ name: tmc
 favicon: null
 layout_spectrum: 0.45503674913197756
 typography_spectrum: 0.9713114798069
+title: The Movie Club
 cta:
   domain: null
   bucket: null

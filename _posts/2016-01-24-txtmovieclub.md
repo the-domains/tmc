@@ -11,8 +11,8 @@ description: "Free movie screening passes sent directly to your mobile phone. Fr
 app_links: []
 isBasedOnUrl: 'http://www.txtmovieclub.com/profiles/blogs/tmc-movie-review-13-hours-the-secret-soldiers-of-benghazi'
 title: txtMovieClub
-datePublished: '2016-01-24T05:58:44.506Z'
-dateModified: '2016-01-21T07:11:09.084Z'
+datePublished: '2016-01-24T05:58:44.571Z'
+dateModified: '2016-01-21T07:13:44.390Z'
 sourcePath: _posts/2016-01-24-txtmovieclub.md
 published: true
 inFeed: true
